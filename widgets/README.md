@@ -11,4 +11,9 @@ repo](https://github.com/didengren/flutter-series/issues/new)提出.
 
 | Plugin |
 |--------|
-| [android_alarm_manager](./packages/android_alarm_manager/) |
+| [z_first_scaffold](./packages/z_first_scaffold/) |
+| [z_list](./packages/z_list/) |
+| [z_loading](./packages/z_loading/) |
+| [z_tab_bar_view](./packages/z_tab_bar_view/) |
+| [z_toast](./packages/z_toast/) |
+| [z_webview_scaffold](./packages/z_webview_scaffold/) |
